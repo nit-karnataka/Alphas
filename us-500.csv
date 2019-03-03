@@ -1,0 +1,561 @@
+first_name,last_name,company_name,address,city,phone,aadhar,doctor,gender,disease,prescriptio roomno,
+James,Butt,"Benton, John B Jr",6649 N Blue Gum St,New Orleans,8774692049,685471364000,DR.Vasavi,female,multiple sclerosis,Corticosteroids,102
+Josephine,Darakjy,"Chanay, Jeffrey A Esq",4 B Blue Ridge Blvd,Brighton,6265330279,685471364002,DR.Rupesh,female,diabetes,"Sulfonylureas,Meglitinides",210
+Art,Venere,"Chemel, James L Cpa",8 W Cerritos Ave #54,Bridgeport,8180063322,685471364001,DR.RaviKumar,male,heart attack,Thrombolytics,105
+Lenna,Paprocki,Feltz Printing Service,639 Main St,Anchorage,7808710002,544258663464,DR.RaviKumar,female,heart attack,Thrombolytics,106
+Donette,Foller,Printing Dimensions,34 Center St,Hamilton,6192300839,952935469038,DR.Ramesh,male,cough&cold,Tessalon Perles,111
+Simona,Morasca,"Chapman, Ross E Esq",3 Mcauley Dr,Ashland,7654205589,974260088226,DR.Ramesh,female,asthma,Budesonide,110
+Mitsue,Tollner,Morlong Associates,7 Eads St,Chicago,8674570433,803045416876,DR.Ramesh,male,asthma,Budesonide,109
+Leota,Dilliard,Commercial Press,7 W Jackson Blvd,San Jose,9788352437,138619914600,DR.Ramesh,male,viralfever,ibuprofen,102
+Sage,Wieser,Truhlar And Truhlar Attys,5 Boston Ave #88,Sioux Falls,9903102643,840254939524,DR.Rajesh,female,lupus,hydroxychloroquine,103
+Kris,Marrier,"King, Christopher A Esq",228 Runamuck Pl #2808,Baltimore,8679660413,391737071218,DR.Apuroop,female,cancer,Abemaciclib,100
+Minna,Amigon,"Dorl, James J Esq",2371 Jerrold Ave,Kulpsville,7306728397,122045033678,DR.Vasavi,female,multiple sclerosis,Corticosteroids,102
+Abel,Maclead,Rangoni Of Florence,37275 St  Rt 17m M,Middle Island,8009524530,591910002501,DR.Rupesh,female,diabetes,"Sulfonylureas,Meglitinides",210
+Kiley,Caldarera,Feiner Bros,25 E 75th St #69,Los Angeles,7114428227,189894363954,DR.RaviKumar,male,heart attack,Thrombolytics,105
+Graciela,Ruta,Buckley Miller & Wright,98 Connecticut Ave Nw,Chagrin Falls,9979609645,384851471496,DR.RaviKumar,female,heart attack,Thrombolytics,106
+Cammy,Albares,"Rousseaux, Michael Esq",56 E Morehead St,Laredo,7044958643,787777959269,DR.Ramesh,male,cough&cold,Tessalon Perles,
+Mattie,Poquette,Century Communications,73 State Road 434 E,Phoenix,8098913262,66787019317,DR.Ramesh,female,asthma,Budesonide,110
+Meaghan,Garufi,"Bolton, Wilbur Esq",69734 E Carrillo St,Mc Minnville,7288723421,756456033345,DR.Ramesh,male,asthma,Budesonide,109
+Gladys,Rim,T M Byxbee Company Pc,322 New Horizon Blvd,Milwaukee,6464855118,575747097833,DR.Ramesh,male,viralfever,ibuprofen,102
+Yuki,Whobrey,Farmers Insurance Group,1 State Route 27,Taylor,8969595904,844627413210,DR.Rajesh,female,lupus,hydroxychloroquine,103
+Fletcher,Flosi,Post Box Services Plus,394 Manchester Blvd,Rockford,6536376320,593749891253,DR.Apuroop,female,cancer,Abemaciclib,100
+Bette,Nicka,Sport En Art,6 S 33rd St,Aston,8843848107,655512144883,DR.Vasavi,female,multiple sclerosis,Corticosteroids,102
+Veronika,Inouye,C 4 Network Inc,6 Greenleaf Ave,San Jose,8171551079,203978076831,DR.Rupesh,female,diabetes,"Sulfonylureas,Meglitinides",210
+Willard,Kolmetz,"Ingalls, Donald R Esq",618 W Yakima Ave,Irving,6513833237,851897894772,DR.RaviKumar,male,heart attack,Thrombolytics,105
+Maryann,Royster,"Franklin, Peter L Esq",74 S Westgate St,Albany,8374160006,113426355885,DR.RaviKumar,female,heart attack,Thrombolytics,106
+Alisha,Slusarski,Wtlz Power 107 Fm,3273 State St,Middlesex,6540156636,349423960821,DR.Ramesh,male,cough&cold,Tessalon Perles,111
+Allene,Iturbide,"Ledecky, David Esq",1 Central Ave,Stevens Point,9918299646,286225998812,DR.Ramesh,female,asthma,Budesonide,110
+Chanel,Caudy,Professional Image Inc,86 Nw 66th St #8673,Shawnee,9584971113,411752594017,DR.Ramesh,male,asthma,Budesonide,109
+Ezekiel,Chui,"Sider, Donald C Esq",2 Cedar Ave #84,Easton,7540870049,667489140559,DR.Ramesh,male,viralfever,ibuprofen,102
+Willow,Kusko,U Pull It,90991 Thorburn Ave,New York,7451547939,825623883779,DR.Rajesh,female,lupus,hydroxychloroquine,103
+Bernardo,Figeroa,"Clark, Richard Cpa",386 9th Ave N,Conroe,8642718136,23778440134,DR.Apuroop,female,cancer,Abemaciclib,100
+Ammie,Corrio,"Moskowitz, Barry S",74874 Atlantic Ave,Columbus,6611658348,269076357418,DR.Vasavi,female,multiple sclerosis,Corticosteroids,102
+Francine,Vocelka,Cascade Realty Advisors Inc,366 South Dr,Las Cruces,8920494664,823000635742,DR.Rupesh,female,diabetes,"Sulfonylureas,Meglitinides",210
+Ernie,Stenseth,Knwz Newsradio,45 E Liberty St,Ridgefield Park,9198543567,638681710987,DR.RaviKumar,male,heart attack,Thrombolytics,105
+Albina,Glick,"Giampetro, Anthony D",4 Ralph Ct,Dunellen,7284195929,67731276240,DR.RaviKumar,female,heart attack,Thrombolytics,106
+Alishia,Sergi,Milford Enterprises Inc,2742 Distribution Way,New York,7638715149,729728861576,DR.Ramesh,male,cough&cold,Tessalon Perles,111
+Solange,Shinko,"Mosocco, Ronald A",426 Wolf St,Metairie,7567259477,547607113484,DR.Ramesh,female,asthma,Budesonide,110
+Jose,Stockham,Tri State Refueler Co,128 Bransten Rd,New York,6777438929,527905233772,DR.Ramesh,male,asthma,Budesonide,109
+Rozella,Ostrosky,Parkway Company,17 Morena Blvd,Camarillo,8803708532,38767906493,DR.Ramesh,male,viralfever,ibuprofen,102
+Valentine,Gillian,Fbs Business Finance,775 W 17th St,San Antonio,9491680377,864482173691,DR.Rajesh,female,lupus,hydroxychloroquine,103
+Kati,Rulapaugh,Eder Assocs Consltng Engrs Pc,6980 Dorsett Rd,Abilene,9318245533,172546909831,DR.Apuroop,female,cancer,Abemaciclib,100
+Youlanda,Schemmer,Tri M Tool Inc,2881 Lewis Rd,Prineville,9097427437,631563726784,DR.Vasavi,female,multiple sclerosis,Corticosteroids,102
+Dyan,Oldroyd,International Eyelets Inc,7219 Woodfield Rd,Overland Park,6578196284,650398125132,DR.Rupesh,female,diabetes,"Sulfonylureas,Meglitinides",210
+Roxane,Campain,Rapid Trading Intl,1048 Main St,Fairbanks,7463725166,302158069157,DR.RaviKumar,male,heart attack,Thrombolytics,105
+Lavera,Perin,Abc Enterprises Inc,678 3rd Ave,Miami,6598782424,456411400559,DR.RaviKumar,female,heart attack,Thrombolytics,106
+Erick,Ferencz,Cindy Turner Associates,20 S Babcock St,Fairbanks,8948291051,808816862217,DR.Ramesh,male,cough&cold,Tessalon Perles,112
+Fatima,Saylors,"Stanton, James D Esq",2 Lighthouse Ave,Hopkins,9836074952,330933934434,DR.Ramesh,female,asthma,Budesonide,110
+Jina,Briddick,Grace Pastries Inc,38938 Park Blvd,Boston,9394895607,518579207152,DR.Ramesh,male,asthma,Budesonide,109
+Kanisha,Waycott,"Schroer, Gene E Esq",5 Tomahawk Dr,Los Angeles,9063522776,363925029817,DR.Ramesh,male,viralfever,ibuprofen,102
+Emerson,Bowley,Knights Inn,762 S Main St,Madison,6284518766,666983371543,DR.Rajesh,female,lupus,hydroxychloroquine,103
+Blair,Malet,Bollinger Mach Shp & Shipyard,209 Decker Dr,Philadelphia,8673324703,243018873363,DR.Apuroop,female,cancer,Abemaciclib,100
+Brock,Bolognia,Orinda News,4486 W O St #1,New York,7737030119,726114378409,DR.Vasavi,female,multiple sclerosis,Corticosteroids,102
+Lorrie,Nestle,Ballard Spahr Andrews,39 S 7th St,Tullahoma,8523443241,592059224690,DR.Rupesh,female,diabetes,"Sulfonylureas,Meglitinides",210
+Sabra,Uyetake,Lowy Limousine Service,98839 Hawthorne Blvd #6101,Columbia,6444973607,232029694021,DR.RaviKumar,male,heart attack,Thrombolytics,105
+Marjory,Mastella,Vicon Corporation,71 San Mateo Ave,Wayne,6015848459,493619071899,DR.RaviKumar,female,heart attack,Thrombolytics,106
+Karl,Klonowski,"Rossi, Michael M",76 Brooks St #9,Flemington,8302697890,774738245326,DR.Ramesh,male,cough&cold,Tessalon Perles,112
+Tonette,Wenner,Northwest Publishing,4545 Courthouse Rd,Westbury,9872480978,662373083158,DR.Ramesh,female,asthma,Budesonide,110
+Amber,Monarrez,Branford Wire & Mfg Co,14288 Foster Ave #4121,Jenkintown,9306130706,546698637158,DR.Ramesh,male,asthma,Budesonide,109
+Shenika,Seewald,East Coast Marketing,4 Otis St,Van Nuys,7001604014,797141311069,DR.Ramesh,male,viralfever,ibuprofen,102
+Delmy,Ahle,Wye Technologies Inc,65895 S 16th St,Providence,6607783533,776682439074,DR.Rajesh,female,lupus,hydroxychloroquine,103
+Deeanna,Juhas,"Healy, George W Iv",14302 Pennsylvania Ave,Huntingdon Valley,9098483929,251000911986,DR.Apuroop,female,cancer,Abemaciclib,100
+Blondell,Pugh,Alpenlite Inc,201 Hawk Ct,Providence,7663126483,315869890255,DR.Vasavi,female,multiple sclerosis,Corticosteroids,102
+Jamal,Vanausdal,"Hubbard, Bruce Esq",53075 Sw 152nd Ter #615,Monroe Township,8079167983,735157586584,DR.Rupesh,female,diabetes,"Sulfonylureas,Meglitinides",210
+Cecily,Hollack,Arthur A Oliver & Son Inc,59 N Groesbeck Hwy,Austin,9160665049,600216663594,DR.RaviKumar,male,heart attack,Thrombolytics,105
+Carmelina,Lindall,George Jessop Carter Jewelers,2664 Lewis Rd,Littleton,6033671037,40784946690,DR.RaviKumar,female,heart attack,Thrombolytics,106
+Maurine,Yglesias,"Schultz, Thomas C Md",59 Shady Ln #53,Milwaukee,6155728391,978144256501,DR.Ramesh,male,cough&cold,Tessalon Perles,112
+Tawna,Buvens,H H H Enterprises Inc,3305 Nabell Ave #679,New York,7106899480,202661515703,DR.Ramesh,female,asthma,Budesonide,110
+Penney,Weight,Hawaiian King Hotel,18 Fountain St,Anchorage,8888155881,642800773281,DR.Ramesh,male,asthma,Budesonide,109
+Elly,Morocco,Killion Industries,7 W 32nd St,Erie,8561597398,416915285065,DR.Ramesh,male,viralfever,ibuprofen,102
+Ilene,Eroman,"Robinson, William J Esq",2853 S Central Expy,Glen Burnie,7665634434,69747623894,DR.Rajesh,female,lupus,hydroxychloroquine,103
+Vallie,Mondella,Private Properties,74 W College St,Boise,9885536304,893835703168,DR.Apuroop,female,cancer,Abemaciclib,100
+Kallie,Blackwood,Rowley Schlimgen Inc,701 S Harrison Rd,San Francisco,9039442742,222458025666,DR.Vasavi,female,multiple sclerosis,Corticosteroids,102
+Johnetta,Abdallah,Forging Specialties,1088 Pinehurst St,Chapel Hill,8821251602,557865889357,DR.Rupesh,female,diabetes,"Sulfonylureas,Meglitinides",210
+Bobbye,Rhym,"Smits, Patricia Garity",30 W 80th St #1995,San Carlos,9880033129,940097354592,DR.RaviKumar,male,heart attack,Thrombolytics,105
+Micaela,Rhymes,H Lee Leonard Attorney At Law,20932 Hedley St,Concord,8940403632,655205090476,DR.RaviKumar,female,heart attack,Thrombolytics,106
+Tamar,Hoogland,A K Construction Co,2737 Pistorio Rd #9230,London,7898547510,471105190241,DR.Ramesh,male,cough&cold,Tessalon Perles,112
+Moon,Parlato,"Ambelang, Jessica M Md",74989 Brandon St,Wellsville,6866991119,733004147207,DR.Ramesh,female,asthma,Budesonide,110
+Laurel,Reitler,Q A Service,6 Kains Ave,Baltimore,6726417343,419533435305,DR.Ramesh,male,asthma,Budesonide,109
+Delisa,Crupi,Wood & Whitacre Contractors,47565 W Grand Ave,Newark,9267966452,716346402115,DR.Ramesh,male,viralfever,ibuprofen,102
+Viva,Toelkes,Mark Iv Press Ltd,4284 Dorigo Ln,Chicago,9157429375,164351862839,DR.Rajesh,female,lupus,hydroxychloroquine,103
+Elza,Lipke,Museum Of Science & Industry,6794 Lake Dr E,Newark,7715223311,33400210931,DR.Apuroop,female,cancer,Abemaciclib,100
+Devorah,Chickering,Garrison Ind,31 Douglas Blvd #950,Clovis,8442694606,584747152864,DR.Vasavi,female,multiple sclerosis,Corticosteroids,102
+Timothy,Mulqueen,Saronix Nymph Products,44 W 4th St,Staten Island,9616726582,634528332464,DR.Rupesh,female,diabetes,"Sulfonylureas,Meglitinides",210
+Arlette,Honeywell,Smc Inc,11279 Loytan St,Jacksonville,6654953245,451746192265,DR.RaviKumar,male,heart attack,Thrombolytics,105
+Dominque,Dickerson,E A I Electronic Assocs Inc,69 Marquette Ave,Hayward,6168356923,983381937460,DR.RaviKumar,female,heart attack,Thrombolytics,106
+Lettie,Isenhower,"Conte, Christopher A Esq",70 W Main St,Beachwood,9018011388,94744940168,DR.Ramesh,male,cough&cold,Tessalon Perles,112
+Myra,Munns,Anker Law Office,461 Prospect Pl #316,Euless,7618349704,145105862277,DR.Ramesh,female,asthma,Budesonide,110
+Stephaine,Barfield,Beutelschies & Company,47154 Whipple Ave Nw,Gardena,7319282366,13602046076,DR.Ramesh,male,asthma,Budesonide,109
+Lai,Gato,"Fligg, Kenneth I Jr",37 Alabama Ave,Evanston,7472193979,621748744137,DR.Ramesh,male,viralfever,ibuprofen,102
+Stephen,Emigh,"Sharp, J Daniel Esq",3777 E Richmond St #900,Akron,7627737486,137623081045,DR.Rajesh,female,lupus,hydroxychloroquine,103
+Tyra,Shields,"Assink, Anne H Esq",3 Fort Worth Ave,Philadelphia,8805872125,358099090957,DR.Apuroop,female,cancer,Abemaciclib,100
+Tammara,Wardrip,Jewel My Shop Inc,4800 Black Horse Pike,Burlingame,6471155015,780773993279,DR.Vasavi,female,multiple sclerosis,Corticosteroids,102
+Cory,Gibes,Chinese Translation Resources,83649 W Belmont Ave,San Gabriel,6187052837,886330337499,DR.Rupesh,female,diabetes,"Sulfonylureas,Meglitinides",210
+Danica,Bruschke,"Stevens, Charles T",840 15th Ave,Waco,6791892666,733174815452,DR.RaviKumar,male,heart attack,Thrombolytics,105
+Wilda,Giguere,"Mclaughlin, Luther W Cpa",1747 Calle Amanecer #2,Anchorage,6224205429,848040454911,DR.RaviKumar,female,heart attack,Thrombolytics,106
+Elvera,Benimadho,Tree Musketeers,99385 Charity St #840,San Jose,9786712947,711208258372,DR.Ramesh,male,cough&cold,Tessalon Perles,210
+Carma,Vanheusen,Springfield Div Oh Edison Co,68556 Central Hwy,San Leandro,8474365314,995208260509,DR.Ramesh,female,asthma,Budesonide,105
+Malinda,Hochard,Logan Memorial Hospital,55 Riverside Ave,Indianapolis,8260505551,332990887529,DR.Ramesh,male,asthma,Budesonide,106
+Natalie,Fern,"Kelly, Charles G Esq",7140 University Ave,Rock Springs,6305321058,210814918938,DR.Ramesh,male,viralfever,ibuprofen,112
+Lisha,Centini,Industrial Paper Shredders Inc,64 5th Ave #1153,Mc Lean,8912313138,962217570740,DR.Rajesh,female,lupus,hydroxychloroquine,110
+Arlene,Klusman,Beck Horizon Builders,3 Secor Rd,New Orleans,6573389260,85261328859,DR.Apuroop,female,cancer,Abemaciclib,109
+Alease,Buemi,Porto Cayo At Hawks Cay,4 Webbs Chapel Rd,Boulder,6305418239,739612239291,DR.Vasavi,female,multiple sclerosis,Corticosteroids,102
+Louisa,Cronauer,Pacific Grove Museum Ntrl Hist,524 Louisiana Ave Nw,San Leandro,9995437386,388784838202,DR.Rupesh,female,diabetes,"Sulfonylureas,Meglitinides",103
+Angella,Cetta,Bender & Hatley Pc,185 Blackstone Bldge,Honolulu,9277334559,951417699363,DR.RaviKumar,male,heart attack,Thrombolytics,100
+Cyndy,Goldammer,Di Cristina J & Son,170 Wyoming Ave,Burnsville,9806634494,969119879384,DR.RaviKumar,female,heart attack,Thrombolytics,102
+Rosio,Cork,Green Goddess,4 10th St W,High Point,6367413542,603154377806,DR.Ramesh,male,cough&cold,Tessalon Perles,210
+Celeste,Korando,American Arts & Graphics,7 W Pinhook Rd,Lynbrook,6745051234,814966946237,DR.Ramesh,female,asthma,Budesonide,105
+Twana,Felger,Opryland Hotel,1 Commerce Way,Portland,9664485913,46896342719,DR.Ramesh,male,asthma,Budesonide,106
+Estrella,Samu,Marking Devices Pubg Co,64 Lakeview Ave,Beloit,7820438807,522316857621,DR.Ramesh,male,viralfever,ibuprofen,112
+Donte,Kines,W Tc Industries Inc,3 Aspen St,Worcester,7611956549,312020900487,DR.Rajesh,female,lupus,hydroxychloroquine,110
+Tiffiny,Steffensmeier,Whitehall Robbins Labs Divsn,32860 Sierra Rd,Miami,8181660326,158502196954,DR.Apuroop,female,cancer,Abemaciclib,109
+Edna,Miceli,Sampler,555 Main St,Erie,7617504368,185415267515,DR.Vasavi,female,multiple sclerosis,Corticosteroids,102
+Sue,Kownacki,Juno Chefs Incorporated,2 Se 3rd Ave,Mesquite,8056678014,59888101518,DR.Rupesh,female,diabetes,"Sulfonylureas,Meglitinides",103
+Jesusa,Shin,"Carroccio, A Thomas Esq",2239 Shawnee Mission Pky,Tullahoma,7631702372,89639350789,DR.RaviKumar,male,heart attack,Thrombolytics,100
+Rolland,Francescon,"Stanley, Richard L Esq",2726 Charcot Ave,Paterson,9662744009,873260667862,DR.RaviKumar,female,heart attack,Thrombolytics,102
+Pamella,Schmierer,K Cs Cstm Mouldings Windows,5161 Dorsett Rd,Homestead,8420848759,490341654772,DR.Ramesh,male,cough&cold,Tessalon Perles,210
+Glory,Kulzer,Comfort Inn,55892 Jacksonville Rd,Owings Mills,9008475574,564522973232,DR.Ramesh,female,asthma,Budesonide,105
+Shawna,Palaspas,"Windsor, James L Esq",5 N Cleveland Massillon Rd,Thousand Oaks,8462724234,897752088461,DR.Ramesh,male,asthma,Budesonide,106
+Brandon,Callaro,Jackson Shields Yeiser,7 Benton Dr,Honolulu,9343944366,34744875485,DR.Ramesh,male,viralfever,ibuprofen,112
+Scarlet,Cartan,"Box, J Calvin Esq",9390 S Howell Ave,Albany,7519792208,927987848718,DR.Rajesh,female,lupus,hydroxychloroquine,110
+Oretha,Menter,Custom Engineering Inc,8 County Center Dr #647,Boston,6025604826,508417503554,DR.Apuroop,female,cancer,Abemaciclib,109
+Ty,Smith,Bresler Eitel Framg Gllry Ltd,4646 Kaahumanu St,Hackensack,9122938396,120199946613,DR.Vasavi,female,multiple sclerosis,Corticosteroids,102
+Xuan,Rochin,"Carol, Drake Sparks Esq",2 Monroe St,San Mateo,9240739955,722191790555,DR.Rupesh,female,diabetes,"Sulfonylureas,Meglitinides",103
+Lindsey,Dilello,Biltmore Investors Bank,52777 Leaders Heights Rd,Ontario,8049532579,98998656368,DR.RaviKumar,male,heart attack,Thrombolytics,100
+Devora,Perez,Desco Equipment Corp,72868 Blackington Ave,Oakland,9893061524,908127289982,DR.RaviKumar,female,heart attack,Thrombolytics,102
+Herman,Demesa,Merlin Electric Co,9 Norristown Rd,Troy,9054552777,434056617341,DR.Ramesh,male,cough&cold,Tessalon Perles,210
+Rory,Papasergi,Bailey Cntl Co Div Babcock,83 County Road 437 #8581,Clarks Summit,6391783008,760267569553,DR.Ramesh,female,asthma,Budesonide,105
+Talia,Riopelle,Ford Brothers Wholesale Inc,1 N Harlem Ave #9,Orange,8491757941,919691394365,DR.Ramesh,male,asthma,Budesonide,106
+Van,Shire,Cambridge Inn,90131 J St,Pittstown,6163936667,447481840354,DR.Ramesh,male,viralfever,ibuprofen,112
+Lucina,Lary,"Matricciani, Albert J Jr",8597 W National Ave,Cocoa,9359313017,719888429722,DR.Rajesh,female,lupus,hydroxychloroquine,110
+Bok,Isaacs,Nelson Hawaiian Ltd,6 Gilson St,Bronx,8714287701,547069733651,DR.Apuroop,female,cancer,Abemaciclib,109
+Rolande,Spickerman,Neland Travel Agency,65 W Maple Ave,Pearl City,6536034777,193283991647,DR.Vasavi,female,multiple sclerosis,Corticosteroids,102
+Howard,Paulas,"Asendorf, J Alan Esq",866 34th Ave,Denver,9649064448,1885811758,DR.Rupesh,female,diabetes,"Sulfonylureas,Meglitinides",103
+Kimbery,Madarang,"Silberman, Arthur L Esq",798 Lund Farm Way,Rockaway,6931831085,247554988946,DR.RaviKumar,male,heart attack,Thrombolytics,100
+Thurman,Manno,Honey Bee Breeding Genetics &,9387 Charcot Ave,Absecon,9461733477,830305478322,DR.RaviKumar,female,heart attack,Thrombolytics,102
+Becky,Mirafuentes,Wells Kravitz Schnitzer,30553 Washington Rd,Plainfield,6081617767,458820453159,DR.Ramesh,male,cough&cold,Tessalon Perles,210
+Beatriz,Corrington,Prohab Rehabilitation Servs,481 W Lemon St,Middleboro,9391592759,510556117290,DR.Ramesh,female,asthma,Budesonide,105
+Marti,Maybury,"Eldridge, Kristin K Esq",4 Warehouse Point Rd #7,Chicago,7809351321,132658982265,DR.Ramesh,male,asthma,Budesonide,106
+Nieves,Gotter,"Vlahos, John J Esq",4940 Pulaski Park Dr,Portland,9999143589,431826735461,DR.Ramesh,male,viralfever,ibuprofen,112
+Leatha,Hagele,Ninas Indian Grs & Videos,627 Walford Ave,Dallas,7770944308,28769442525,DR.Rajesh,female,lupus,hydroxychloroquine,110
+Valentin,Klimek,"Schmid, Gayanne K Esq",137 Pioneer Way,Chicago,7093062245,132704000627,DR.Apuroop,female,cancer,Abemaciclib,109
+Melissa,Wiklund,Moapa Valley Federal Credit Un,61 13 Stoneridge #835,Findlay,7559194964,750266766726,DR.Vasavi,female,multiple sclerosis,Corticosteroids,102
+Sheridan,Zane,Kentucky Tennessee Clay Co,2409 Alabama Rd,Riverside,6908556259,45284134523,DR.Rupesh,female,diabetes,"Sulfonylureas,Meglitinides",103
+Bulah,Padilla,Admiral Party Rentals & Sales,8927 Vandever Ave,Waco,6828241989,109758810682,DR.RaviKumar,male,heart attack,Thrombolytics,100
+Audra,Kohnert,"Nelson, Karolyn King Esq",134 Lewis Rd,Nashville,8325687706,730317743335,DR.RaviKumar,female,heart attack,Thrombolytics,102
+Daren,Weirather,Panasystems,9 N College Ave #3,Milwaukee,7811316848,413797446203,DR.Ramesh,male,cough&cold,Tessalon Perles,210
+Fernanda,Jillson,"Shank, Edward L Esq",60480 Old Us Highway 51,Preston,7556755476,916007011669,DR.Ramesh,female,asthma,Budesonide,105
+Gearldine,Gellinger,Megibow & Edwards,4 Bloomfield Ave,Irving,8930864264,619856742363,DR.Ramesh,male,asthma,Budesonide,106
+Chau,Kitzman,"Benoff, Edward Esq",429 Tiger Ln,Beverly Hills,7335511886,120639012207,DR.Ramesh,male,viralfever,ibuprofen,102
+Theola,Frey,Woodbridge Free Public Library,54169 N Main St,Massapequa,7757286295,707691280115,DR.Rajesh,female,lupus,hydroxychloroquine,103
+Cheryl,Haroldson,New York Life John Thune,92 Main St,Atlantic City,7192550431,415904093511,DR.Apuroop,female,cancer,Abemaciclib,100
+Laticia,Merced,Alinabal Inc,72 Mannix Dr,Cincinnati,6591030432,684636246589,DR.Vasavi,female,multiple sclerosis,Corticosteroids,102
+Carissa,Batman,"Poletto, Kim David Esq",12270 Caton Center Dr,Eugene,6805423337,218977600078,DR.Rupesh,female,diabetes,"Sulfonylureas,Meglitinides",210
+Lezlie,Craghead,"Chang, Carolyn Esq",749 W 18th St #45,Smithfield,9702926298,886323825296,DR.RaviKumar,male,heart attack,Thrombolytics,105
+Ozell,Shealy,Silver Bros Inc,8 Industry Ln,New York,9845144365,306836422258,DR.RaviKumar,female,heart attack,Thrombolytics,106
+Arminda,Parvis,Newtec Inc,1 Huntwood Ave,Phoenix,7542341217,636356589207,DR.Ramesh,male,cough&cold,Tessalon Perles,111
+Reita,Leto,Creative Business Systems,55262 N French Rd,Indianapolis,7893419366,241363240713,DR.Ramesh,female,asthma,Budesonide,110
+Yolando,Luczki,Dal Tile Corporation,422 E 21st St,Syracuse,8076133465,255783999565,DR.Ramesh,male,asthma,Budesonide,109
+Lizette,Stem,Edward S Katz,501 N 19th Ave,Cherry Hill,9113234869,759198605671,DR.Ramesh,male,viralfever,ibuprofen,102
+Gregoria,Pawlowicz,Oh My Goodknits Inc,455 N Main Ave,Garden City,8089951055,63172071069,DR.Rajesh,female,lupus,hydroxychloroquine,103
+Carin,Deleo,"Redeker, Debbie",1844 Southern Blvd,Little Rock,8901696372,428266431859,DR.Apuroop,female,cancer,Abemaciclib,100
+Chantell,Maynerich,Desert Sands Motel,2023 Greg St,Saint Paul,8467138195,630234215826,DR.Vasavi,female,multiple sclerosis,Corticosteroids,102
+Dierdre,Yum,Cummins Southern Plains Inc,63381 Jenks Ave,Philadelphia,7050233373,371111720958,DR.Rupesh,female,diabetes,"Sulfonylureas,Meglitinides",210
+Larae,Gudroe,Lehigh Furn Divsn Lehigh,6651 Municipal Rd,Houma,9098764731,698723796297,DR.RaviKumar,male,heart attack,Thrombolytics,105
+Latrice,Tolfree,United Van Lines Agent,81 Norris Ave #525,Ronkonkoma,9191734735,560964807689,DR.RaviKumar,female,heart attack,Thrombolytics,106
+Kerry,Theodorov,Capitol Reporters,6916 W Main St,Sacramento,6890603814,534385932971,DR.Ramesh,male,cough&cold,Tessalon Perles,111
+Dorthy,Hidvegi,Kwik Kopy Printing,9635 S Main St,Boise,9509976520,432258463137,DR.Ramesh,female,asthma,Budesonide,110
+Fannie,Lungren,Centro Inc,17 Us Highway 111,Round Rock,8355574792,420949344053,DR.Ramesh,male,asthma,Budesonide,109
+Evangelina,Radde,"Campbell, Jan Esq",992 Civic Center Dr,Philadelphia,6409937563,53207313543,DR.Ramesh,male,viralfever,ibuprofen,102
+Novella,Degroot,"Evans, C Kelly Esq",303 N Radcliffe St,Hilo,7365249618,633979059329,DR.Rajesh,female,lupus,hydroxychloroquine,103
+Clay,Hoa,Scat Enterprises,73 Saint Ann St #86,Reno,7726467265,134627685475,DR.Apuroop,female,cancer,Abemaciclib,100
+Jennifer,Fallick,"Nagle, Daniel J Esq",44 58th St,Wheeling,6404693551,415851218828,DR.Vasavi,female,multiple sclerosis,Corticosteroids,102
+Irma,Wolfgramm,Serendiquity Bed & Breakfast,9745 W Main St,Randolph,9468948797,721457636088,DR.Rupesh,female,diabetes,"Sulfonylureas,Meglitinides",210
+Eun,Coody,Ray Carolyne Realty,84 Bloomfield Ave,Spartanburg,8709146208,329145956119,DR.RaviKumar,male,heart attack,Thrombolytics,105
+Sylvia,Cousey,"Berg, Charles E",287 Youngstown Warren Rd,Hampstead,6267107905,832622262810,DR.RaviKumar,female,heart attack,Thrombolytics,106
+Nana,Wrinkles,"Ray, Milbern D",6 Van Buren St,Mount Vernon,7080748454,135665186342,DR.Ramesh,male,cough&cold,Tessalon Perles,111
+Layla,Springe,Chadds Ford Winery,229 N Forty Driv,New York,7495174214,556497969428,DR.Ramesh,female,asthma,Budesonide,110
+Joesph,Degonia,A R Packaging,2887 Knowlton St #5435,Berkeley,6037168619,199304656398,DR.Ramesh,male,asthma,Budesonide,109
+Annabelle,Boord,Corn Popper,523 Marquette Ave,Concord,9454145184,646654917244,DR.Ramesh,male,viralfever,ibuprofen,102
+Stephaine,Vinning,Birite Foodservice Distr,3717 Hamann Industrial Pky,San Francisco,7244985187,214524525566,DR.Rajesh,female,lupus,hydroxychloroquine,103
+Nelida,Sawchuk,Anchorage Museum Of Hist & Art,3 State Route 35 S,Paramus,9898129195,754136798939,DR.Apuroop,female,cancer,Abemaciclib,100
+Marguerita,Hiatt,"Haber, George D Md",82 N Highway 67,Oakley,8171721363,355636013578,DR.Vasavi,female,multiple sclerosis,Corticosteroids,102
+Carmela,Cookey,Royal Pontiac Olds Inc,9 Murfreesboro Rd,Chicago,9547829847,620205340103,DR.Rupesh,female,diabetes,"Sulfonylureas,Meglitinides",210
+Junita,Brideau,Leonards Antiques Inc,6 S Broadway St,Cedar Grove,9400458313,790290252760,DR.RaviKumar,male,heart attack,Thrombolytics,105
+Claribel,Varriano,Meca,6 Harry L Dr #6327,Perrysburg,6940239905,168678884260,DR.RaviKumar,female,heart attack,Thrombolytics,106
+Benton,Skursky,Nercon Engineering & Mfg Inc,47939 Porter Ave,Gardena,8108816004,699619301779,DR.Ramesh,male,cough&cold,Tessalon Perles,111
+Hillary,Skulski,Replica I,9 Wales Rd Ne #914,Homosassa,8997795023,455954523629,DR.Ramesh,female,asthma,Budesonide,110
+Merilyn,Bayless,20 20 Printing Inc,195 13n N,Santa Clara,8466688911,212464168878,DR.Ramesh,male,asthma,Budesonide,109
+Teri,Ennaco,Publishers Group West,99 Tank Farm Rd,Hazleton,7696777592,507829868399,DR.Ramesh,male,viralfever,ibuprofen,102
+Merlyn,Lawler,"Nischwitz, Jeffrey L Esq",4671 Alemany Blvd,Jersey City,8462674669,744232012025,DR.Rajesh,female,lupus,hydroxychloroquine,103
+Georgene,Montezuma,Payne Blades & Wellborn Pa,98 University Dr,San Ramon,6337438747,652142056856,DR.Apuroop,female,cancer,Abemaciclib,100
+Jettie,Mconnell,Coldwell Bnkr Wright Real Est,50 E Wacker Dr,Bridgewater,8768067058,823875474744,DR.Vasavi,female,multiple sclerosis,Corticosteroids,102
+Lemuel,Latzke,Computer Repair Service,70 Euclid Ave #722,Bohemia,7135102128,468366995106,DR.Rupesh,female,diabetes,"Sulfonylureas,Meglitinides",210
+Melodie,Knipp,Fleetwood Building Block Inc,326 E Main St #6496,Thousand Oaks,8659026343,134031643376,DR.RaviKumar,male,heart attack,Thrombolytics,105
+Candida,Corbley,Colts Neck Medical Assocs Inc,406 Main St,Somerville,9015191630,618439417212,DR.RaviKumar,female,heart attack,Thrombolytics,106
+Karan,Karpin,New England Taxidermy,3 Elmwood Dr,Beaverton,6076644722,530516311243,DR.Ramesh,male,cough&cold,Tessalon Perles,111
+Andra,Scheyer,"Ludcke, George O Esq",9 Church St,Salem,7267669705,477443969385,DR.Ramesh,female,asthma,Budesonide,110
+Felicidad,Poullion,"Mccorkle, Tom S Esq",9939 N 14th St,Riverton,9138626411,747543368526,DR.Ramesh,male,asthma,Budesonide,109
+Belen,Strassner,Eagle Software Inc,5384 Southwyck Blvd,Douglasville,6657474983,925583916752,DR.Ramesh,male,viralfever,ibuprofen,102
+Gracia,Melnyk,Juvenile & Adult Super,97 Airport Loop Dr,Jacksonville,8502639787,717556323679,DR.Rajesh,female,lupus,hydroxychloroquine,103
+Jolanda,Hanafan,"Perez, Joseph J Esq",37855 Nolan Rd,Bangor,7133948532,39945780480,DR.Apuroop,female,cancer,Abemaciclib,100
+Barrett,Toyama,Case Foundation Co,4252 N Washington Ave #9,Kennedale,8247174829,705127301840,DR.Vasavi,female,multiple sclerosis,Corticosteroids,102
+Helga,Fredicks,Eis Environmental Engrs Inc,42754 S Ash Ave,Buffalo,6792298674,32020768746,DR.Rupesh,female,diabetes,"Sulfonylureas,Meglitinides",210
+Ashlyn,Pinilla,Art Crafters,703 Beville Rd,Opa Locka,9069692236,210903321910,DR.RaviKumar,male,heart attack,Thrombolytics,105
+Fausto,Agramonte,Marriott Hotels Resorts Suites,5 Harrison Rd,New York,9348245609,728283022285,DR.RaviKumar,female,heart attack,Thrombolytics,106
+Ronny,Caiafa,Remaco Inc,73 Southern Blvd,Philadelphia,9570246752,75888591433,DR.Ramesh,male,cough&cold,Tessalon Perles,111
+Marge,Limmel,"Bjork, Robert D Jr",189 Village Park Rd,Crestview,8567426947,48651122460,DR.Ramesh,female,asthma,Budesonide,110
+Norah,Waymire,"Carmichael, Jeffery L Esq",6 Middlegate Rd #106,San Francisco,7679036735,520447778094,DR.Ramesh,male,asthma,Budesonide,109
+Aliza,Baltimore,"Andrews, J Robert Esq",1128 Delaware St,San Jose,7698267161,52948212049,DR.Ramesh,male,viralfever,ibuprofen,102
+Mozell,Pelkowski,Winship & Byrne,577 Parade St,South San Francisco,9954797100,284706873276,DR.Rajesh,female,lupus,hydroxychloroquine,103
+Viola,Bitsuie,Burton & Davis,70 Mechanic St,Northridge,7214555382,509345601021,DR.Apuroop,female,cancer,Abemaciclib,100
+Franklyn,Emard,Olympic Graphic Arts,4379 Highway 116,Philadelphia,8481100360,710744308800,DR.Vasavi,female,multiple sclerosis,Corticosteroids,102
+Willodean,Konopacki,Magnuson,55 Hawthorne Blvd,Lafayette,8937453292,367740185929,DR.Rupesh,female,diabetes,"Sulfonylureas,Meglitinides",210
+Beckie,Silvestrini,A All American Travel Inc,7116 Western Ave,Dearborn,9795122515,265731619272,DR.RaviKumar,male,heart attack,Thrombolytics,105
+Rebecka,Gesick,Polykote Inc,2026 N Plankinton Ave #3,Austin,9603803867,22245034591,DR.RaviKumar,female,heart attack,Thrombolytics,106
+Frederica,Blunk,Jets Cybernetics,99586 Main St,Dallas,9723765834,909815297194,DR.Ramesh,male,cough&cold,Tessalon Perles,111
+Glen,Bartolet,Metlab Testing Services,8739 Hudson St,Vashon,8401038178,531601266173,DR.Ramesh,female,asthma,Budesonide,110
+Freeman,Gochal,"Kellermann, William T Esq",383 Gunderman Rd #197,Coatesville,7744518827,471760375732,DR.Ramesh,male,asthma,Budesonide,109
+Vincent,Meinerding,"Arturi, Peter D Esq",4441 Point Term Mkt,Philadelphia,8628795290,394676156118,DR.Ramesh,male,viralfever,ibuprofen,102
+Rima,Bevelacqua,Mcauley Mfg Co,2972 Lafayette Ave,Gardena,8577249313,639211857520,DR.Rajesh,female,lupus,hydroxychloroquine,103
+Glendora,Sarbacher,Defur Voran Hanley Radcliff,2140 Diamond Blvd,Rohnert Park,6997594569,955987659909,DR.Apuroop,female,cancer,Abemaciclib,100
+Avery,Steier,Dill Dill Carr & Stonbraker Pc,93 Redmond Rd #492,Orlando,9272683929,206750947097,DR.Vasavi,female,multiple sclerosis,Corticosteroids,102
+Cristy,Lother,Kleensteel,3989 Portage Tr,Escondido,9271793406,945161405420,DR.Rupesh,female,diabetes,"Sulfonylureas,Meglitinides",210
+Nicolette,Brossart,Goulds Pumps Inc Slurry Pump,1 Midway Rd,Westborough,7792011787,713265786295,DR.RaviKumar,male,heart attack,Thrombolytics,105
+Tracey,Modzelewski,Kansas City Insurance Report,77132 Coon Rapids Blvd Nw,Conroe,6708809847,605576303557,DR.RaviKumar,female,heart attack,Thrombolytics,106
+Virgina,Tegarden,Berhanu International Foods,755 Harbor Way,Milwaukee,9835241509,883683653421,DR.Ramesh,male,cough&cold,Tessalon Perles,111
+Tiera,Frankel,Roland Ashcroft,87 Sierra Rd,El Monte,8808183909,635914210144,DR.Ramesh,female,asthma,Budesonide,110
+Alaine,Bergesen,Hispanic Magazine,7667 S Hulen St #42,Yonkers,6858777767,929073393652,DR.Ramesh,male,asthma,Budesonide,109
+Earleen,Mai,Little Sheet Metal Co,75684 S Withlapopka Dr #32,Dallas,8314532532,763236745995,DR.Ramesh,male,viralfever,ibuprofen,102
+Leonida,Gobern,"Holmes, Armstead J Esq",5 Elmwood Park Blvd,Biloxi,6092042520,966675230306,DR.Rajesh,female,lupus,hydroxychloroquine,103
+Ressie,Auffrey,"Faw, James C Cpa",23 Palo Alto Sq,Miami,9546946962,33126967021,DR.Apuroop,female,cancer,Abemaciclib,100
+Justine,Mugnolo,Evans Rule Company,38062 E Main St,New York,6373227754,747209980560,DR.Vasavi,female,multiple sclerosis,Corticosteroids,102
+Eladia,Saulter,Tyee Productions Inc,3958 S Dupont Hwy #7,Ramsey,7022611264,940297316160,DR.Rupesh,female,diabetes,"Sulfonylureas,Meglitinides",210
+Chaya,Malvin,Dunnells & Duvall,560 Civic Center Dr,Ann Arbor,8260270559,319100816179,DR.RaviKumar,male,heart attack,Thrombolytics,105
+Gwenn,Suffield,Deltam Systems Inc,3270 Dequindre Rd,Deer Park,7412637178,92180986478,DR.RaviKumar,female,heart attack,Thrombolytics,106
+Salena,Karpel,Hammill Mfg Co,1 Garfield Ave #7,Canton,6281142273,621084904830,DR.Ramesh,male,cough&cold,Tessalon Perles,111
+Yoko,Fishburne,Sams Corner Store,9122 Carpenter Ave,New Haven,8595174476,594380144784,DR.Ramesh,female,asthma,Budesonide,110
+Taryn,Moyd,"Siskin, Mark J Esq",48 Lenox St,Fairfax,8572407421,987731117520,DR.Ramesh,male,asthma,Budesonide,109
+Katina,Polidori,Cape & Associates Real Estate,5 Little River Tpke,Wilmington,6781751144,845886735197,DR.Ramesh,male,viralfever,ibuprofen,102
+Rickie,Plumer,Merrill Lynch,3 N Groesbeck Hwy,Toledo,6431306033,951059449543,DR.Rajesh,female,lupus,hydroxychloroquine,103
+Alex,Loader,"Sublett, Scott Esq",37 N Elm St #916,Tacoma,6077537710,151609296400,DR.Apuroop,female,cancer,Abemaciclib,100
+Lashon,Vizarro,Sentry Signs,433 Westminster Blvd #590,Roseville,7622831275,486923790202,DR.Vasavi,female,multiple sclerosis,Corticosteroids,102
+Lauran,Burnard,Professionals Unlimited,66697 Park Pl #3224,Riverton,8847054491,354454205656,DR.Rupesh,female,diabetes,"Sulfonylureas,Meglitinides",210
+Ceola,Setter,Southern Steel Shelving Co,96263 Greenwood Pl,Warren,6571298400,375780716668,DR.RaviKumar,male,heart attack,Thrombolytics,105
+My,Rantanen,"Bosco, Paul J",8 Mcarthur Ln,Richboro,8740659319,977773026598,DR.RaviKumar,female,heart attack,Thrombolytics,106
+Lorrine,Worlds,"Longo, Nicholas J Esq",8 Fair Lawn Ave,Tampa,6766647806,580811079112,DR.Ramesh,male,cough&cold,Tessalon Perles,111
+Peggie,Sturiale,Henry County Middle School,9 N 14th St,El Cajon,8968128470,604022542301,DR.Ramesh,female,asthma,Budesonide,110
+Marvel,Raymo,Edison Supply & Equipment Co,9 Vanowen St,College Station,7318262145,920878329776,DR.Ramesh,male,asthma,Budesonide,109
+Daron,Dinos,"Wolf, Warren R Esq",18 Waterloo Geneva Rd,Highland Park,6198110277,181316582464,DR.Ramesh,male,viralfever,ibuprofen,102
+An,Fritz,Linguistic Systems Inc,506 S Hacienda Dr,Atlantic City,9629218180,490150841307,DR.Rajesh,female,lupus,hydroxychloroquine,103
+Portia,Stimmel,Peace Christian Center,3732 Sherman Ave,Bridgewater,8362249717,969348027665,DR.Apuroop,female,cancer,Abemaciclib,100
+Rhea,Aredondo,Double B Foods Inc,25657 Live Oak St,Brooklyn,8358337860,964764311709,DR.Vasavi,female,multiple sclerosis,Corticosteroids,102
+Benedict,Sama,Alexander & Alexander Inc,4923 Carey Ave,Saint Louis,8469284739,740815390561,DR.Rupesh,female,diabetes,"Sulfonylureas,Meglitinides",210
+Alyce,Arias,Fairbanks Scales,3196 S Rider Trl,Stockton,6821148546,306890623580,DR.RaviKumar,male,heart attack,Thrombolytics,105
+Heike,Berganza,Cali Sportswear Cutting Dept,3 Railway Ave #75,Little Falls,8293719137,390731747579,DR.RaviKumar,female,heart attack,Thrombolytics,106
+Carey,Dopico,"Garofani, John Esq",87393 E Highland Rd,Indianapolis,7565288325,232097384186,DR.Ramesh,male,cough&cold,Tessalon Perles,210
+Dottie,Hellickson,Thompson Fabricating Co,67 E Chestnut Hill Rd,Seattle,6268046876,171594172350,DR.Ramesh,female,asthma,Budesonide,105
+Deandrea,Hughey,Century 21 Krall Real Estate,33 Lewis Rd #46,Burlington,9932922808,624971567428,DR.Ramesh,male,asthma,Budesonide,106
+Kimberlie,Duenas,Mid Contntl Rlty & Prop Mgmt,8100 Jacksonville Rd #7,Hays,7709560638,932280274455,DR.Ramesh,male,viralfever,ibuprofen,112
+Martina,Staback,Ace Signs Inc,7 W Wabansia Ave #227,Orlando,7775877337,677204188029,DR.Rajesh,female,lupus,hydroxychloroquine,110
+Skye,Fillingim,Rodeway Inn,25 Minters Chapel Rd #9,Minneapolis,9641225519,566248450826,DR.Apuroop,female,cancer,Abemaciclib,109
+Jade,Farrar,Bonnet & Daughter,6882 Torresdale Ave,Columbia,9060737907,904848373299,DR.Vasavi,female,multiple sclerosis,Corticosteroids,102
+Charlene,Hamilton,Oshins & Gibbons,985 E 6th Ave,Santa Rosa,6199712824,776126171117,DR.Rupesh,female,diabetes,"Sulfonylureas,Meglitinides",103
+Geoffrey,Acey,Price Business Services,7 West Ave #1,Palatine,6024703756,622423384756,DR.RaviKumar,male,heart attack,Thrombolytics,100
+Stevie,Westerbeck,"Wise, Dennis W Md",26659 N 13th St,Costa Mesa,9327217326,284877524046,DR.RaviKumar,female,heart attack,Thrombolytics,102
+Pamella,Fortino,Super 8 Motel,669 Packerland Dr #1438,Denver,6062686382,897595080784,DR.Ramesh,male,cough&cold,Tessalon Perles,210
+Harrison,Haufler,John Wagner Associates,759 Eldora St,New Haven,6670517743,380527772912,DR.Ramesh,female,asthma,Budesonide,105
+Johnna,Engelberg,Thrifty Oil Co,5 S Colorado Blvd #449,Bothell,6220717315,843613313978,DR.Ramesh,male,asthma,Budesonide,106
+Buddy,Cloney,Larkfield Photo,944 Gaither Dr,Strongsville,7498290115,312101963538,DR.Ramesh,male,viralfever,ibuprofen,112
+Dalene,Riden,Silverman Planetarium,66552 Malone Rd,Plaistow,7639902232,666206942194,DR.Rajesh,female,lupus,hydroxychloroquine,110
+Jerry,Zurcher,J & F Lumber,77 Massillon Rd #822,Satellite Beach,7242502900,265476099262,DR.Apuroop,female,cancer,Abemaciclib,109
+Haydee,Denooyer,Cleaning Station Inc,25346 New Rd,New York,6883933198,758932316700,DR.Vasavi,female,multiple sclerosis,Corticosteroids,102
+Joseph,Cryer,Ames Stationers,60 Fillmore Ave,Huntington Beach,8616480180,688290144837,DR.Rupesh,female,diabetes,"Sulfonylureas,Meglitinides",103
+Deonna,Kippley,Midas Muffler Shops,57 Haven Ave #90,Southfield,7697535929,50002934581,DR.RaviKumar,male,heart attack,Thrombolytics,100
+Raymon,Calvaresi,Seaboard Securities Inc,6538 E Pomona St #60,Indianapolis,9071789984,726781586445,DR.RaviKumar,female,heart attack,Thrombolytics,102
+Alecia,Bubash,"Petersen, James E Esq",6535 Joyce St,Wichita Falls,6298799461,647990140150,DR.Ramesh,male,cough&cold,Tessalon Perles,210
+Ma,Layous,Development Authority,78112 Morris Ave,North Haven,7750798122,210386122570,DR.Ramesh,female,asthma,Budesonide,105
+Detra,Coyier,Schott Fiber Optics Inc,96950 Hidden Ln,Aberdeen,6370895823,471706524945,DR.Ramesh,male,asthma,Budesonide,106
+Terrilyn,Rodeigues,Stuart J Agins,3718 S Main St,New Orleans,9116563075,381345088770,DR.Ramesh,male,viralfever,ibuprofen,112
+Salome,Lacovara,Mitsumi Electronics Corp,9677 Commerce Dr,Richmond,9953635902,812150987044,DR.Rajesh,female,lupus,hydroxychloroquine,110
+Garry,Keetch,Italian Express Franchise Corp,5 Green Pond Rd #4,Southampton,6617145915,563189592466,DR.Apuroop,female,cancer,Abemaciclib,109
+Matthew,Neither,American Council On Sci & Hlth,636 Commerce Dr #42,Shakopee,6583951597,577362338081,DR.Vasavi,female,multiple sclerosis,Corticosteroids,102
+Theodora,Restrepo,"Kleri, Patricia S Esq",42744 Hamann Industrial Pky #82,Miami,9899171491,506438010556,DR.Rupesh,female,diabetes,"Sulfonylureas,Meglitinides",103
+Noah,Kalafatis,Twiggs Abrams Blanchard,1950 5th Ave,Milwaukee,7078185837,51142496885,DR.RaviKumar,male,heart attack,Thrombolytics,100
+Carmen,Sweigard,Maui Research & Technology Pk,61304 N French Rd,Somerset,6687979047,450315165024,DR.RaviKumar,female,heart attack,Thrombolytics,102
+Lavonda,Hengel,Bradley Nameplate Corp,87 Imperial Ct #79,Fargo,9155096016,584929099117,DR.Ramesh,male,cough&cold,Tessalon Perles,210
+Junita,Stoltzman,Geonex Martel Inc,94 W Dodge Rd,Carson City,9804542664,132179495690,DR.Ramesh,female,asthma,Budesonide,105
+Herminia,Nicolozakes,Sea Island Div Of Fstr Ind Inc,4 58th St #3519,Scottsdale,8732462162,554628805545,DR.Ramesh,male,asthma,Budesonide,106
+Casie,Good,"Papay, Debbie J Esq",5221 Bear Valley Rd,Nashville,9913358784,758511204131,DR.Ramesh,male,viralfever,ibuprofen,112
+Reena,Maisto,Lane Promotions,9648 S Main,Salisbury,8528287182,233385145132,DR.Rajesh,female,lupus,hydroxychloroquine,110
+Mirta,Mallett,Stephen Kennerly Archts Inc Pc,7 S San Marcos Rd,New York,9628230681,869556914074,DR.Apuroop,female,cancer,Abemaciclib,109
+Cathrine,Pontoriero,Business Systems Of Wis Inc,812 S Haven St,Amarillo,9401121630,845489885666,DR.Vasavi,female,multiple sclerosis,Corticosteroids,102
+Filiberto,Tawil,"Flash, Elena Salerno Esq",3882 W Congress St #799,Los Angeles,8763331806,442078826109,DR.Rupesh,female,diabetes,"Sulfonylureas,Meglitinides",103
+Raul,Upthegrove,"Neeley, Gregory W Esq",4 E Colonial Dr,La Mesa,9397776725,304257049885,DR.RaviKumar,male,heart attack,Thrombolytics,100
+Sarah,Candlish,Alabama Educational Tv Comm,45 2nd Ave #9759,Atlanta,9937607960,219738570402,DR.RaviKumar,female,heart attack,Thrombolytics,102
+Lucy,Treston,Franz Inc,57254 Brickell Ave #372,Worcester,7756507861,48228387868,DR.Ramesh,male,cough&cold,Tessalon Perles,210
+Judy,Aquas,Plantation Restaurant,8977 Connecticut Ave Nw #3,Niles,7392722979,446620514061,DR.Ramesh,female,asthma,Budesonide,105
+Yvonne,Tjepkema,Radio Communications Co,9 Waydell St,Fairfield,7242927970,848472714037,DR.Ramesh,male,asthma,Budesonide,106
+Kayleigh,Lace,Dentalaw Divsn Hlth Care,43 Huey P Long Ave,Lafayette,9419834297,66198886272,DR.Ramesh,male,viralfever,ibuprofen,112
+Felix,Hirpara,American Speedy Printing Ctrs,7563 Cornwall Rd #4462,Denver,8511054422,441453892714,DR.Rajesh,female,lupus,hydroxychloroquine,110
+Tresa,Sweely,"Grayson, Grant S Esq",22 Bridle Ln,Valley Park,6100839137,787984465861,DR.Apuroop,female,cancer,Abemaciclib,109
+Kristeen,Turinetti,Jeanerette Middle School,70099 E North Ave,Arlington,9037835983,76814690287,DR.Vasavi,female,multiple sclerosis,Corticosteroids,102
+Jenelle,Regusters,"Haavisto, Brian F Esq",3211 E Northeast Loop,Tampa,6938113448,462534697428,DR.Rupesh,female,diabetes,"Sulfonylureas,Meglitinides",103
+Renea,Monterrubio,Wmmt Radio Station,26 Montgomery St,Atlanta,9081147425,430241110661,DR.RaviKumar,male,heart attack,Thrombolytics,100
+Olive,Matuszak,Colony Paints Sales Ofc & Plnt,13252 Lighthouse Ave,Cathedral City,8498105568,21066067139,DR.RaviKumar,female,heart attack,Thrombolytics,102
+Ligia,Reiber,Floral Expressions,206 Main St #2804,Lansing,8687308414,602997061268,DR.Ramesh,male,cough&cold,Tessalon Perles,210
+Christiane,Eschberger,Casco Services Inc,96541 W Central Blvd,Phoenix,8852864840,8187156031,DR.Ramesh,female,asthma,Budesonide,105
+Goldie,Schirpke,"Reuter, Arthur C Jr",34 Saint George Ave #2,Bangor,8606641711,357980775037,DR.Ramesh,male,asthma,Budesonide,106
+Loreta,Timenez,"Kaminski, Katherine Andritsaki",47857 Coney Island Ave,Clinton,9179792754,845224821516,DR.Ramesh,male,viralfever,ibuprofen,102
+Fabiola,Hauenstein,Sidewinder Products Corp,8573 Lincoln Blvd,York,9310514548,555784331057,DR.Rajesh,female,lupus,hydroxychloroquine,103
+Amie,Perigo,General Foam Corporation,596 Santa Maria Ave #7913,Mesquite,8605177833,335348340227,DR.Apuroop,female,cancer,Abemaciclib,100
+Raina,Brachle,Ikg Borden Divsn Harsco Corp,3829 Ventura Blvd,Butte,9918882462,692195295906,DR.Vasavi,female,multiple sclerosis,Corticosteroids,102
+Erinn,Canlas,Anchor Computer Inc,13 S Hacienda Dr,Livingston,9716776675,333642396660,DR.Rupesh,female,diabetes,"Sulfonylureas,Meglitinides",210
+Cherry,Lietz,Sebring & Co,40 9th Ave Sw #91,Waterford,8411423890,880442890671,DR.RaviKumar,male,heart attack,Thrombolytics,105
+Kattie,Vonasek,H A C Farm Lines Co Optv Assoc,2845 Boulder Crescent St,Cleveland,9430637168,497836744758,DR.RaviKumar,female,heart attack,Thrombolytics,106
+Lilli,Scriven,"Hunter, John J Esq",33 State St,Abilene,8421200653,792690468045,DR.Ramesh,male,cough&cold,Tessalon Perles,111
+Whitley,Tomasulo,Freehold Fence Co,2 S 15th St,Fort Worth,6912360742,71882688141,DR.Ramesh,female,asthma,Budesonide,110
+Barbra,Adkin,Binswanger,4 Kohler Memorial Dr,Brooklyn,6477429902,556846326175,DR.Ramesh,male,asthma,Budesonide,109
+Hermila,Thyberg,Chilton Malting Co,1 Rancho Del Mar Shopping C,Providence,6661887612,268915814545,DR.Ramesh,male,viralfever,ibuprofen,102
+Jesusita,Flister,"Schoen, Edward J Jr",3943 N Highland Ave,Lancaster,6778276396,725001438780,DR.Rajesh,female,lupus,hydroxychloroquine,103
+Caitlin,Julia,"Helderman, Seymour Cpa",5 Williams St,Johnston,9033951984,415368481457,DR.Apuroop,female,cancer,Abemaciclib,100
+Roosevelt,Hoffis,"Denbrook, Myron",60 Old Dover Rd,Hialeah,6598426467,718917777859,DR.Vasavi,female,multiple sclerosis,Corticosteroids,102
+Helaine,Halter,"Lippitt, Mike",8 Sheridan Rd,Jersey City,7960193081,434175551481,DR.Rupesh,female,diabetes,"Sulfonylureas,Meglitinides",210
+Lorean,Martabano,"Hiram, Hogg P Esq",85092 Southern Blvd,San Antonio,9836737854,216344645200,DR.RaviKumar,male,heart attack,Thrombolytics,105
+France,Buzick,In Travel Agency,64 Newman Springs Rd E,Brooklyn,7056509970,747168948135,DR.RaviKumar,female,heart attack,Thrombolytics,106
+Justine,Ferrario,Newhart Foods Inc,48 Stratford Ave,Pomona,7062717044,289590972905,DR.Ramesh,male,cough&cold,Tessalon Perles,111
+Adelina,Nabours,Courtyard By Marriott,80 Pittsford Victor Rd #9,Cleveland,7607212701,888410970336,DR.Ramesh,female,asthma,Budesonide,110
+Derick,Dhamer,"Studer, Eugene A Esq",87163 N Main Ave,New York,6642441300,692114590770,DR.Ramesh,male,asthma,Budesonide,109
+Jerry,Dallen,Seashore Supply Co Waretown,393 Lafayette Ave,Richmond,8123730698,105334021424,DR.Ramesh,male,viralfever,ibuprofen,102
+Leota,Ragel,Mayar Silk Inc,99 5th Ave #33,Trion,7723406770,542203268794,DR.Rajesh,female,lupus,hydroxychloroquine,103
+Jutta,Amyot,National Medical Excess Corp,49 N Mays St,Broussard,6657157620,992489975758,DR.Apuroop,female,cancer,Abemaciclib,100
+Aja,Gehrett,Stero Company,993 Washington Ave,Nutley,6648343687,762772916436,DR.Vasavi,female,multiple sclerosis,Corticosteroids,102
+Kirk,Herritt,"Hasting, H Duane Esq",88 15th Ave Ne,Vestal,6886507420,201551302868,DR.Rupesh,female,diabetes,"Sulfonylureas,Meglitinides",210
+Leonora,Mauson,Insty Prints,3381 E 40th Ave,Passaic,7002809296,38093756822,DR.RaviKumar,male,heart attack,Thrombolytics,105
+Winfred,Brucato,Glenridge Manor Mobile Home Pk,201 Ridgewood Rd,Moscow,7446269402,429104436690,DR.RaviKumar,female,heart attack,Thrombolytics,106
+Tarra,Nachor,Circuit Solution Inc,39 Moccasin Dr,San Francisco,6030777420,507229821042,DR.Ramesh,male,cough&cold,Tessalon Perles,111
+Corinne,Loder,Local Office,4 Carroll St,North Attleboro,9515403487,853301758232,DR.Ramesh,female,asthma,Budesonide,110
+Dulce,Labreche,Lee Kilkelly Paulson & Kabaker,9581 E Arapahoe Rd,Rochester,8947401534,413084909382,DR.Ramesh,male,asthma,Budesonide,109
+Kate,Keneipp,"Davis, Maxon R Esq",33 N Michigan Ave,Green Bay,9816393421,971996371037,DR.Ramesh,male,viralfever,ibuprofen,102
+Kaitlyn,Ogg,"Garrison, Paul E Esq",2 S Biscayne Blvd,Baltimore,8136580008,374473376559,DR.Rajesh,female,lupus,hydroxychloroquine,103
+Sherita,Saras,Black History Resource Center,8 Us Highway 22,Colorado Springs,6605959568,712822685209,DR.Apuroop,female,cancer,Abemaciclib,100
+Lashawnda,Stuer,"Rodriguez, J Christopher Esq",7422 Martin Ave #8,Toledo,8284178475,570718054540,DR.Vasavi,female,multiple sclerosis,Corticosteroids,102
+Ernest,Syrop,Grant Family Health Center,94 Chase Rd,Hyattsville,6806896205,308313409712,DR.Rupesh,female,diabetes,"Sulfonylureas,Meglitinides",210
+Nobuko,Halsey,Goeman Wood Products Inc,8139 I Hwy 10 #92,New Bedford,7635585533,799856557483,DR.RaviKumar,male,heart attack,Thrombolytics,105
+Lavonna,Wolny,"Linhares, Kenneth A Esq",5 Cabot Rd,Mc Lean,6468514447,466573315800,DR.RaviKumar,female,heart attack,Thrombolytics,106
+Lashaunda,Lizama,Earnhardt Printing,3387 Ryan Dr,Hanover,6567706486,952383507194,DR.Ramesh,male,cough&cold,Tessalon Perles,111
+Mariann,Bilden,H P G Industrys Inc,3125 Packer Ave #9851,Austin,6933435052,132084413582,DR.Ramesh,female,asthma,Budesonide,110
+Helene,Rodenberger,Bailey Transportation Prod Inc,347 Chestnut St,Peoria,8595848780,720056406829,DR.Ramesh,male,asthma,Budesonide,109
+Roselle,Estell,Mcglynn Bliss Pc,8116 Mount Vernon Ave,Bucyrus,8332880767,498828189620,DR.Ramesh,male,viralfever,ibuprofen,102
+Samira,Heintzman,Mutual Fish Co,8772 Old County Rd #5410,Kent,9764156551,502692840203,DR.Rajesh,female,lupus,hydroxychloroquine,103
+Margart,Meisel,"Yeates, Arthur L Aia",868 State St #38,Cincinnati,7646276876,913850366996,DR.Apuroop,female,cancer,Abemaciclib,100
+Kristofer,Bennick,"Logan, Ronald J Esq",772 W River Dr,Bloomington,6500056853,92013530431,DR.Vasavi,female,multiple sclerosis,Corticosteroids,102
+Weldon,Acuff,Advantage Martgage Company,73 W Barstow Ave,Arlington Heights,6833285599,872552623088,DR.Rupesh,female,diabetes,"Sulfonylureas,Meglitinides",210
+Shalon,Shadrick,Germer And Gertz Llp,61047 Mayfield Ave,Brooklyn,8837854110,800837148820,DR.RaviKumar,male,heart attack,Thrombolytics,105
+Denise,Patak,Spence Law Offices,2139 Santa Rosa Ave,Orlando,6873735239,489116451637,DR.RaviKumar,female,heart attack,Thrombolytics,106
+Louvenia,Beech,John Ortiz Nts Therapy Center,598 43rd St,Beverly Hills,9716077425,173282717785,DR.Ramesh,male,cough&cold,Tessalon Perles,111
+Audry,Yaw,Mike Uchrin Htg & Air Cond Inc,70295 Pioneer Ct,Brandon,6433081671,990728969760,DR.Ramesh,female,asthma,Budesonide,110
+Kristel,Ehmann,"Mccoy, Joy Reynolds Esq",92899 Kalakaua Ave,El Paso,8297541806,237877695485,DR.Ramesh,male,asthma,Budesonide,109
+Vincenza,Zepp,Kbor 1600 Am,395 S 6th St #2,El Cajon,9491894712,539987036507,DR.Ramesh,male,viralfever,ibuprofen,102
+Elouise,Gwalthney,Quality Inn Northwest,9506 Edgemore Ave,Bladensburg,8267205696,737189380327,DR.Rajesh,female,lupus,hydroxychloroquine,103
+Venita,Maillard,Wallace Church Assoc Inc,72119 S Walker Ave #63,Anaheim,9667394395,783988622415,DR.Apuroop,female,cancer,Abemaciclib,100
+Kasandra,Semidey,Can Tron,369 Latham St #500,Saint Louis,8442938622,348818642974,DR.Vasavi,female,multiple sclerosis,Corticosteroids,102
+Xochitl,Discipio,Ravaal Enterprises Inc,3158 Runamuck Pl,Round Rock,8080745105,976771954856,DR.Rupesh,female,diabetes,"Sulfonylureas,Meglitinides",210
+Maile,Linahan,Thompson Steel Company Inc,9 Plainsboro Rd #598,Greensboro,6631665742,184591285066,DR.RaviKumar,male,heart attack,Thrombolytics,105
+Krissy,Rauser,"Anderson, Mark A Esq",8728 S Broad St,Coram,6591940182,928850945714,DR.RaviKumar,female,heart attack,Thrombolytics,106
+Pete,Dubaldi,Womack & Galich,2215 Prosperity Dr,Lyndhurst,8559399628,715769259662,DR.Ramesh,male,cough&cold,Tessalon Perles,111
+Linn,Paa,Valerie & Company,1 S Pine St,Memphis,6600604477,905447176721,DR.Ramesh,female,asthma,Budesonide,110
+Paris,Wide,Gehring Pumps Inc,187 Market St,Atlanta,9964981241,374093914442,DR.Ramesh,male,asthma,Budesonide,109
+Wynell,Dorshorst,"Haehnel, Craig W Esq",94290 S Buchanan St,Pacifica,9181388172,646082703231,DR.Ramesh,male,viralfever,ibuprofen,102
+Quentin,Birkner,Spoor Behrins Campbell & Young,7061 N 2nd St,Burnsville,7316078532,960439918656,DR.Rajesh,female,lupus,hydroxychloroquine,103
+Regenia,Kannady,Ken Jeter Store Equipment Inc,10759 Main St,Scottsdale,8267490719,606702978513,DR.Apuroop,female,cancer,Abemaciclib,100
+Sheron,Louissant,"Potter, Brenda J Cpa",97 E 3rd St #9,Long Island City,7648538829,129641038965,DR.Vasavi,female,multiple sclerosis,Corticosteroids,102
+Izetta,Funnell,Baird Kurtz & Dobson,82 Winsor St #54,Atlanta,9141357533,181875129289,DR.Rupesh,female,diabetes,"Sulfonylureas,Meglitinides",210
+Rodolfo,Butzen,"Minor, Cynthia A Esq",41 Steel Ct,Northfield,9628381114,443445578680,DR.RaviKumar,male,heart attack,Thrombolytics,105
+Zona,Colla,"Solove, Robert A Esq",49440 Dearborn St,Norwalk,9289905378,201808173402,DR.RaviKumar,female,heart attack,Thrombolytics,106
+Serina,Zagen,Mark Ii Imports Inc,7 S Beverly Dr,Fort Wayne,9644789680,260445131417,DR.Ramesh,male,cough&cold,Tessalon Perles,111
+Paz,Sahagun,White Sign Div Ctrl Equip Co,919 Wall Blvd,Meridian,7661372735,690916524286,DR.Ramesh,female,asthma,Budesonide,110
+Markus,Lukasik,M & M Store Fixtures Co Inc,89 20th St E #779,Sterling Heights,7983468359,557844091590,DR.Ramesh,male,asthma,Budesonide,109
+Jaclyn,Bachman,Judah Caster & Wheel Co,721 Interstate 45 S,Colorado Springs,6066053403,952446558874,DR.Ramesh,male,viralfever,ibuprofen,102
+Cyril,Daufeldt,Galaxy International Inc,3 Lawton St,New York,7434015167,856804759979,DR.Rajesh,female,lupus,hydroxychloroquine,103
+Gayla,Schnitzler,Sigma Corp Of America,38 Pleasant Hill Rd,Hayward,9555518253,93054192893,DR.Apuroop,female,cancer,Abemaciclib,100
+Erick,Nievas,"Soward, Anne Esq",45 E Acacia Ct,Chicago,6014841685,103328750252,DR.Vasavi,female,multiple sclerosis,Corticosteroids,102
+Jennie,Drymon,"Osborne, Michelle M Esq",63728 Poway Rd #1,Scranton,9560587331,194761595889,DR.Rupesh,female,diabetes,"Sulfonylureas,Meglitinides",210
+Mitsue,Scipione,Students In Free Entrprs Natl,77 222 Dr,Oroville,6968322515,308449348207,DR.RaviKumar,male,heart attack,Thrombolytics,105
+Ciara,Ventura,"Johnson, Robert M Esq",53 W Carey St,Port Jervis,6237354296,505640395995,DR.RaviKumar,female,heart attack,Thrombolytics,106
+Galen,Cantres,Del Charro Apartments,617 Nw 36th Ave,Brook Park,9611433310,465033361920,DR.Ramesh,male,cough&cold,Tessalon Perles,111
+Truman,Feichtner,Legal Search Inc,539 Coldwater Canyon Ave,Bloomfield,6896545527,841638222304,DR.Ramesh,female,asthma,Budesonide,110
+Gail,Kitty,Service Supply Co Inc,735 Crawford Dr,Anchorage,7092640167,781366380934,DR.Ramesh,male,asthma,Budesonide,109
+Dalene,Schoeneck,"Sameshima, Douglas J Esq",910 Rahway Ave,Philadelphia,9951616741,896391451447,DR.Ramesh,male,viralfever,ibuprofen,102
+Gertude,Witten,"Thompson, John Randolph Jr",7 Tarrytown Rd,Cincinnati,9491528525,508758346110,DR.Rajesh,female,lupus,hydroxychloroquine,103
+Lizbeth,Kohl,E T Balancing Co Inc,35433 Blake St #588,Gardena,6649537735,217655036927,DR.Apuroop,female,cancer,Abemaciclib,100
+Glenn,Berray,"Griswold, John E Esq",29 Cherry St #7073,Des Moines,7799199667,638435761933,DR.Vasavi,female,multiple sclerosis,Corticosteroids,102
+Lashandra,Klang,Acqua Group,810 N La Brea Ave,King of Prussia,8451054530,88690567108,DR.Rupesh,female,diabetes,"Sulfonylureas,Meglitinides",210
+Lenna,Newville,"Brooks, Morris J Jr",987 Main St,Raleigh,9615001401,552989008287,DR.RaviKumar,male,heart attack,Thrombolytics,105
+Laurel,Pagliuca,Printing Images Corp,36 Enterprise St Se,Richland,6146700104,376679858794,DR.RaviKumar,female,heart attack,Thrombolytics,106
+Mireya,Frerking,Roberts Supply Co Inc,8429 Miller Rd,Pelham,7891581058,606814270565,DR.Ramesh,male,cough&cold,Tessalon Perles,111
+Annelle,Tagala,Vico Products Mfg Co,5 W 7th St,Parkville,8311259264,749157390658,DR.Ramesh,female,asthma,Budesonide,110
+Dean,Ketelsen,J M Custom Design Millwork,2 Flynn Rd,Hicksville,8645892371,528161886340,DR.Ramesh,male,asthma,Budesonide,109
+Levi,Munis,Farrell & Johnson Office Equip,2094 Ne 36th Ave,Worcester,8628784662,747488274971,DR.Ramesh,male,viralfever,ibuprofen,102
+Sylvie,Ryser,Millers Market & Deli,649 Tulane Ave,Tulsa,8223644876,517905817289,DR.Rajesh,female,lupus,hydroxychloroquine,103
+Sharee,Maile,Holiday Inn Naperville,2094 Montour Blvd,Muskegon,9195536143,155742480931,DR.Apuroop,female,cancer,Abemaciclib,100
+Cordelia,Storment,"Burrows, Jon H Esq",393 Hammond Dr,Lafayette,6005977573,773608416384,DR.Vasavi,female,multiple sclerosis,Corticosteroids,102
+Mollie,Mcdoniel,Dock Seal Specialty,8590 Lake Lizzie Dr,Bowling Green,6467891026,708989443385,DR.Rupesh,female,diabetes,"Sulfonylureas,Meglitinides",210
+Brett,Mccullan,Five Star Limousines Of Tx Inc,87895 Concord Rd,La Mesa,9886845111,574998619574,DR.RaviKumar,male,heart attack,Thrombolytics,105
+Teddy,Pedrozo,"Barkan, Neal J Esq",46314 Route 130,Bridgeport,9253048963,196640394141,DR.RaviKumar,female,heart attack,Thrombolytics,106
+Tasia,Andreason,"Campbell, Robert A",4 Cowesett Ave,Kearny,8622047789,622077025855,DR.Ramesh,male,cough&cold,Tessalon Perles,111
+Hubert,Walthall,"Dee, Deanna",95 Main Ave #2,Barberton,6694892009,648463562477,DR.Ramesh,female,asthma,Budesonide,110
+Arthur,Farrow,"Young, Timothy L Esq",28 S 7th St #2824,Englewood,7863949780,39828474008,DR.Ramesh,male,asthma,Budesonide,109
+Vilma,Berlanga,"Wells, D Fred Esq",79 S Howell Ave,Grand Rapids,6379327131,930721415125,DR.Ramesh,male,viralfever,ibuprofen,102
+Billye,Miro,"Gray, Francine H Esq",36 Lancaster Dr Se,Pearl,8738232169,711605830586,DR.Rajesh,female,lupus,hydroxychloroquine,103
+Glenna,Slayton,Toledo Iv Care,2759 Livingston Ave,Memphis,8447682670,416957820754,DR.Apuroop,female,cancer,Abemaciclib,100
+Mitzie,Hudnall,Cangro Transmission Co,17 Jersey Ave,Englewood,8227573071,127003727208,DR.Vasavi,female,multiple sclerosis,Corticosteroids,102
+Bernardine,Rodefer,Sat Poly Inc,2 W Grand Ave,Memphis,9276173052,540980992592,DR.Rupesh,female,diabetes,"Sulfonylureas,Meglitinides",210
+Staci,Schmaltz,Midwest Contracting & Mfg Inc,18 Coronado Ave #563,Pasadena,8599216571,768690396232,DR.RaviKumar,male,heart attack,Thrombolytics,105
+Nichelle,Meteer,Print Doctor,72 Beechwood Ter,Chicago,7698743719,515515364633,DR.RaviKumar,female,heart attack,Thrombolytics,106
+Janine,Rhoden,Nordic Group Inc,92 Broadway,Astoria,7558965295,160708837678,DR.Ramesh,male,cough&cold,Tessalon Perles,111
+Ettie,Hoopengardner,Jackson Millwork Co,39 Franklin Ave,Richland,7285375398,285648147609,DR.Ramesh,female,asthma,Budesonide,110
+Eden,Jayson,Harris Corporation,4 Iwaena St,Baltimore,6244002546,837719912969,DR.Ramesh,male,asthma,Budesonide,109
+Lynelle,Auber,United Cerebral Palsy Of Ne Pa,32820 Corkwood Rd,Newark,6096675010,640116901233,DR.Ramesh,male,viralfever,ibuprofen,102
+Merissa,Tomblin,One Day Surgery Center Inc,34 Raritan Center Pky,Bellflower,7754514672,685683231321,DR.Rajesh,female,lupus,hydroxychloroquine,103
+Golda,Kaniecki,Calaveras Prospect,6201 S Nevada Ave,Toms River,7178141262,756288370071,DR.Apuroop,female,cancer,Abemaciclib,100
+Catarina,Gleich,"Terk, Robert E Esq",78 Maryland Dr #146,Denville,9938428507,168385394955,DR.Vasavi,female,multiple sclerosis,Corticosteroids,102
+Virgie,Kiel,"Cullen, Terrence P Esq",76598 Rd  I 95 #1,Denver,7359895417,99307520534,DR.Rupesh,female,diabetes,"Sulfonylureas,Meglitinides",210
+Jolene,Ostolaza,Central Die Casting Mfg Co Inc,1610 14th St Nw,Newport News,7622078215,554076815275,DR.RaviKumar,male,heart attack,Thrombolytics,105
+Keneth,Borgman,Centerline Engineering,86350 Roszel Rd,Phoenix,9701696836,266859677376,DR.RaviKumar,female,heart attack,Thrombolytics,106
+Rikki,Nayar,Targan & Kievit Pa,1644 Clove Rd,Miami,9905447993,954689475594,DR.Ramesh,male,cough&cold,Tessalon Perles,111
+Elke,Sengbusch,Riley Riper Hollin & Colagreco,9 W Central Ave,Phoenix,9174551551,940183772371,DR.Ramesh,female,asthma,Budesonide,110
+Hoa,Sarao,"Kaplan, Joel S Esq",27846 Lafayette Ave,Oak Hill,7993651018,564354024367,DR.Ramesh,male,asthma,Budesonide,109
+Trinidad,Mcrae,Water Office,10276 Brooks St,San Francisco,6870246778,225183663262,DR.Ramesh,male,viralfever,ibuprofen,102
+Mari,Lueckenbach,"Westbrooks, Nelson E Jr",1 Century Park E,San Diego,9551880891,682216783889,DR.Rajesh,female,lupus,hydroxychloroquine,103
+Selma,Husser,Armon Communications,9 State Highway 57 #22,Jersey City,7731140626,139533543537,DR.Apuroop,female,cancer,Abemaciclib,100
+Antione,Onofrio,Jacobs & Gerber Inc,4 S Washington Ave,San Bernardino,6298340561,657178732604,DR.Vasavi,female,multiple sclerosis,Corticosteroids,102
+Luisa,Jurney,Forest Fire Laboratory,25 Se 176th Pl,Cambridge,9861373573,244327525654,DR.Rupesh,female,diabetes,"Sulfonylureas,Meglitinides",210
+Clorinda,Heimann,"Haughey, Charles Jr",105 Richmond Valley Rd,Escondido,6072833876,675615891464,DR.RaviKumar,male,heart attack,Thrombolytics,105
+Dick,Wenzinger,Wheaton Plastic Products,22 Spruce St #595,Gardena,8262175269,850498356330,DR.RaviKumar,female,heart attack,Thrombolytics,106
+Ahmed,Angalich,Reese Plastics,2 W Beverly Blvd,Harrisburg,8281717279,51972195819,DR.Ramesh,male,cough&cold,Tessalon Perles,111
+Iluminada,Ohms,Nazette Marner Good Wendt,72 Southern Blvd,Mesa,9625258635,30376147079,DR.Ramesh,female,asthma,Budesonide,110
+Joanna,Leinenbach,Levinson Axelrod Wheaton,1 Washington St,Lake Worth,9291817138,193336261105,DR.Ramesh,male,asthma,Budesonide,109
+Caprice,Suell,"Egnor, W Dan Esq",90177 N 55th Ave,Nashville,6154561056,702972883697,DR.Ramesh,male,viralfever,ibuprofen,102
+Stephane,Myricks,Portland Central Thriftlodge,9 Tower Ave,Burlington,8776366404,140277316267,DR.Rajesh,female,lupus,hydroxychloroquine,103
+Quentin,Swayze,Ulbrich Trucking,278 Bayview Ave,Milan,7200563685,699377324448,DR.Apuroop,female,cancer,Abemaciclib,100
+Annmarie,Castros,Tipiak Inc,80312 W 32nd St,Conroe,9064016420,479646229104,DR.Vasavi,female,multiple sclerosis,Corticosteroids,102
+Shonda,Greenbush,Saint George Well Drilling,82 Us Highway 46,Clifton,6266196421,949022181034,DR.Rupesh,female,diabetes,"Sulfonylureas,Meglitinides",210
+Cecil,Lapage,"Hawkes, Douglas D",4 Stovall St #72,Union City,6941097949,806447046728,DR.RaviKumar,male,heart attack,Thrombolytics,105
+Jeanice,Claucherty,Accurel Systems Intrntl Corp,19 Amboy Ave,Miami,6619113878,383362718830,DR.RaviKumar,female,heart attack,Thrombolytics,106
+Josphine,Villanueva,Santa Cruz Community Internet,63 Smith Ln #8343,Moss,8681694638,503212742506,DR.Ramesh,male,cough&cold,Tessalon Perles,111
+Daniel,Perruzza,Gersh & Danielson,11360 S Halsted St,Santa Ana,8299378416,500988436244,DR.Ramesh,female,asthma,Budesonide,110
+Cassi,Wildfong,"Cobb, James O Esq",26849 Jefferson Hwy,Rolling Meadows,8937537981,212187506346,DR.Ramesh,male,asthma,Budesonide,109
+Britt,Galam,Wheatley Trucking Company,2500 Pringle Rd Se #508,Hatfield,8881319195,902386062013,DR.Ramesh,male,viralfever,ibuprofen,102
+Adell,Lipkin,Systems Graph Inc Ab Dick Dlr,65 Mountain View Dr,Whippany,7174924437,281198014389,DR.Rajesh,female,lupus,hydroxychloroquine,103
+Jacqueline,Rowling,John Hancock Mutl Life Ins Co,1 N San Saba,Erie,6351102208,513383630724,DR.Apuroop,female,cancer,Abemaciclib,100
+Lonny,Weglarz,History Division Of State,51120 State Route 18,Salt Lake City,8967110843,525701933093,DR.Vasavi,female,multiple sclerosis,Corticosteroids,102
+Lonna,Diestel,"Dimmock, Thomas J Esq",1482 College Ave,Fayetteville,6597400380,651628744466,DR.Rupesh,female,diabetes,"Sulfonylureas,Meglitinides",210
+Cristal,Samara,Intermed Inc,4119 Metropolitan Dr,Los Angeles,9443613562,602618296596,DR.RaviKumar,male,heart attack,Thrombolytics,105
+Kenneth,Grenet,Bank Of New York,2167 Sierra Rd,East Lansing,8440087794,798700734178,DR.RaviKumar,female,heart attack,Thrombolytics,106
+Elli,Mclaird,Sportmaster Intrnatl,6 Sunrise Ave,Utica,6159363541,638096378213,DR.Ramesh,male,cough&cold,Tessalon Perles,111
+Alline,Jeanty,W W John Holden Inc,55713 Lake City Hwy,South Bend,8769894291,802074490053,DR.Ramesh,female,asthma,Budesonide,110
+Sharika,Eanes,Maccani & Delp,75698 N Fiesta Blvd,Orlando,9123011677,458201994530,DR.Ramesh,male,asthma,Budesonide,109
+Nu,Mcnease,Amazonia Film Project,88 Sw 28th Ter,Harrison,6540549973,764976751175,DR.Ramesh,male,viralfever,ibuprofen,102
+Daniela,Comnick,Water & Sewer Department,7 Flowers Rd #403,Trenton,8450710030,928542834388,DR.Rajesh,female,lupus,hydroxychloroquine,103
+Cecilia,Colaizzo,Switchcraft Inc,4 Nw 12th St #3849,Madison,7219588577,314229023754,DR.Apuroop,female,cancer,Abemaciclib,100
+Leslie,Threets,C W D C Metal Fabricators,2 A Kelley Dr,Katonah,7403561523,430175974997,DR.Vasavi,female,multiple sclerosis,Corticosteroids,102
+Nan,Koppinger,"Shimotani, Grace T",88827 Frankford Ave,Greensboro,6535196574,743053709829,DR.Rupesh,female,diabetes,"Sulfonylureas,Meglitinides",210
+Izetta,Dewar,"Lisatoni, Jean Esq",2 W Scyene Rd #3,Baltimore,9631149716,819439060785,DR.RaviKumar,male,heart attack,Thrombolytics,105
+Tegan,Arceo,Ceramic Tile Sales Inc,62260 Park Stre,Monroe Township,8566864181,519841507576,DR.RaviKumar,female,heart attack,Thrombolytics,106
+Ruthann,Keener,Maiden Craft Inc,3424 29th St Se,Kerrville,6496232715,970006729550,DR.Ramesh,male,cough&cold,Tessalon Perles,210
+Joni,Breland,Carriage House Cllsn Rpr Inc,35 E Main St #43,Elk Grove Village,6090181117,778456747724,DR.Ramesh,female,asthma,Budesonide,105
+Vi,Rentfro,Video Workshop,7163 W Clark Rd,Freehold,8832282005,433458639951,DR.Ramesh,male,asthma,Budesonide,106
+Colette,Kardas,Fresno Tile Center Inc,21575 S Apple Creek Rd,Omaha,6731153192,148419944138,DR.Ramesh,male,viralfever,ibuprofen,112
+Malcolm,Tromblay,Versatile Sash & Woodwork,747 Leonis Blvd,Annandale,7407521195,404216132734,DR.Rajesh,female,lupus,hydroxychloroquine,110
+Ryan,Harnos,Warner Electric Brk & Cltch Co,13 Gunnison St,Plano,7268427413,103428502086,DR.Apuroop,female,cancer,Abemaciclib,109
+Jess,Chaffins,New York Public Library,18 3rd Ave,New York,6790284972,923422589349,DR.Vasavi,female,multiple sclerosis,Corticosteroids,102
+Sharen,Bourbon,"Mccaleb, John A Esq",62 W Austin St,Syosset,8667242118,461270076409,DR.Rupesh,female,diabetes,"Sulfonylureas,Meglitinides",103
+Nickolas,Juvera,United Oil Co Inc,177 S Rider Trl #52,Crystal River,7820901365,255143784076,DR.RaviKumar,male,heart attack,Thrombolytics,100
+Gary,Nunlee,Irving Foot Center,2 W Mount Royal Ave,Fortville,7588347152,541415814324,DR.RaviKumar,female,heart attack,Thrombolytics,102
+Diane,Devreese,Acme Supply Co,1953 Telegraph Rd,Saint Joseph,6167560456,835098612539,DR.Ramesh,male,cough&cold,Tessalon Perles,210
+Roslyn,Chavous,"Mcrae, James L",63517 Dupont St,Jackson,7521150863,997474175601,DR.Ramesh,female,asthma,Budesonide,105
+Glory,Schieler,Mcgraths Seafood,5 E Truman Rd,Abilene,8051183624,650794453190,DR.Ramesh,male,asthma,Budesonide,106
+Rasheeda,Sayaphon,"Kummerer, J Michael Esq",251 Park Ave #979,Saratoga,9900489833,258858686912,DR.Ramesh,male,viralfever,ibuprofen,112
+Alpha,Palaia,"Stoffer, James M Jr",43496 Commercial Dr #29,Cherry Hill,9238130991,711413423775,DR.Rajesh,female,lupus,hydroxychloroquine,110
+Refugia,Jacobos,North Central Fl Sfty Cncl,2184 Worth St,Hayward,8584787364,821523767403,DR.Apuroop,female,cancer,Abemaciclib,109
+Shawnda,Yori,Fiorucci Foods Usa Inc,50126 N Plankinton Ave,Longwood,8324771237,19277494947,DR.Vasavi,female,multiple sclerosis,Corticosteroids,102
+Mona,Delasancha,Sign All,38773 Gravois Ave,Cheyenne,9557393600,292892964517,DR.Rupesh,female,diabetes,"Sulfonylureas,Meglitinides",103
+Gilma,Liukko,Sammys Steak Den,16452 Greenwich St,Garden City,9451186389,479391570175,DR.RaviKumar,male,heart attack,Thrombolytics,100
+Janey,Gabisi,"Dobscha, Stephen F Esq",40 Cambridge Ave,Madison,9067022163,35326035661,DR.RaviKumar,female,heart attack,Thrombolytics,102
+Lili,Paskin,Morgan Custom Homes,20113 4th Ave E,Kearny,7514201794,632780318133,DR.Ramesh,male,cough&cold,Tessalon Perles,210
+Loren,Asar,Olsen Payne & Company,6 Ridgewood Center Dr,Old Forge,6920264733,813430894328,DR.Ramesh,female,asthma,Budesonide,105
+Dorothy,Chesterfield,Cowan & Kelly,469 Outwater Ln,San Diego,6940449486,649848048576,DR.Ramesh,male,asthma,Budesonide,106
+Gail,Similton,"Johnson, Wes Esq",62 Monroe St,Thousand Palms,6278939300,94296648537,DR.Ramesh,male,viralfever,ibuprofen,112
+Catalina,Tillotson,Icn Pharmaceuticals Inc,3338 A Lockport Pl #6,Margate City,8814146618,119391980625,DR.Rajesh,female,lupus,hydroxychloroquine,110
+Lawrence,Lorens,New England Sec Equip Co Inc,9 Hwy,Providence,8748343874,582252292633,DR.Apuroop,female,cancer,Abemaciclib,109
+Carlee,Boulter,"Tippett, Troy M Ii",8284 Hart St,Abilene,6874061502,742025391219,DR.Vasavi,female,multiple sclerosis,Corticosteroids,102
+Thaddeus,Ankeny,Atc Contracting,5 Washington St #1,Roseville,8226448724,639765928251,DR.Rupesh,female,diabetes,"Sulfonylureas,Meglitinides",103
+Jovita,Oles,"Pagano, Philip G Esq",8 S Haven St,Daytona Beach,8138552053,11261958374,DR.RaviKumar,male,heart attack,Thrombolytics,100
+Alesia,Hixenbaugh,Kwikprint,9 Front St,Washington,8940575966,101207909650,DR.RaviKumar,female,heart attack,Thrombolytics,102
+Lai,Harabedian,Buergi & Madden Scale,1933 Packer Ave #2,Novato,6560508017,239704892095,DR.Ramesh,male,cough&cold,Tessalon Perles,210
+Brittni,Gillaspie,Inner Label,67 Rv Cent,Boise,9948417457,500949774364,DR.Ramesh,female,asthma,Budesonide,105
+Raylene,Kampa,Hermar Inc,2 Sw Nyberg Rd,Elkhart,7069670035,756611258798,DR.Ramesh,male,asthma,Budesonide,106
+Flo,Bookamer,Simonton Howe & Schneider Pc,89992 E 15th St,Alliance,8657452549,680387285457,DR.Ramesh,male,viralfever,ibuprofen,112
+Jani,Biddy,Warehouse Office & Paper Prod,61556 W 20th Ave,Seattle,8028756660,649272591001,DR.Rajesh,female,lupus,hydroxychloroquine,110
+Chauncey,Motley,Affiliated With Travelodge,63 E Aurora Dr,Orlando,9152022354,936801666196,DR.Apuroop,female,cancer,Abemaciclib,109
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,

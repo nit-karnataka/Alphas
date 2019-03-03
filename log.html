@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="stylesheet" type="text/css" href="output.css">
+<table>
+<script>
+function validate()
+{
+var aadhar = document.login.aid.value;
+var phno=document.login.phone.value;
+var reaadhar=new RegExp("^[0-9]{12}$" || "^[0-9]{16}$")
+var rephone=new RegExp("^[0-9]{10}$");
+var r1=reaadhar.exec(aadhar);
+var r2=rephone.exec(phno);
+if(aadhar=="" && phno=="")
+{
+alert("...Both fields are required...");
+}
+else 
+{
+if(!r2 || phno==""){
+alert("Enter valid Phone number");
+document.login.phone.focus();
+}
+if(!r1 || aadhar==""){
+alert("Enter valid Aadhar number");
+document.login.aid.focus();
+}}
+var data = JSON.stringify({
+  "aid": document.login.aid.value,
+  "phone": document.login.phone.value
+});
+
+var xhr = new XMLHttpRequest();
+xhr.withCredentials = true;
+
+xhr.addEventListener("readystatechange", function () {
+  if (this.readyState === 4) {
+	console.log(this.responseText);
+	var ob=this.responseText;
+	var obj = JSON.parse(ob);
+	var n=obj.fname+obj.lname;
+	var a=obj.aadhno;
+	var b=obj.age;
+	var c=obj.bloodgrp;
+	var d=obj.phoneno;
+	var e=obj.pcity;
+	var f=obj.doctor;
+	var g=obj.gender;
+	var h=obj.disease;
+	var i=obj.prescription;
+	var j=obj.roomno;
+	document.write("<br><br><div style='margin-left:700px;color:black;font-size:40px;font-family:Algerian'>NCORD</div>");
+	  
+	document.write("<table align='center'>");
+	document.write("<br><br><h1><p align='center'><b>PATIENT DETAILS</b></p></h1><br>");	
+
+	document.write("<tr align='left'><td><b>NAME:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></td>");
+	document.write('<td><b>'+n+'</b></td></tr>');
+
+	document.write("<tr align='left'><td><b>ADHAR_NUMBER:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></td>");
+	document.write('<td><b>'+a+'</b></td></tr>');
+
+	document.write("<tr align='left'><td><b>AGE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></td>");
+	document.write('<td><b>'+b+'</b></td></tr>');
+
+	document.write("<tr align='left'><td><b>BLOOD_GROUP:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></td>");
+	document.write('<td><b>'+c+'</b></td></tr>');
+
+	document.write("<tr align='left'><td><b>MOBILE_NUMBER:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></td>");
+	document.write('<td><b>'+d+'</b></td></tr>');
+
+	document.write("<tr align='left'><td><b>CITY:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></td>");
+	document.write('<td><b>'+e+'</b></td></tr>');
+
+	document.write("<tr align='left'><td><b>DOCTOR:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></td>");
+	document.write('<td><b>'+f+'</b></td></tr>');
+
+	document.write("<tr align='left'><td><b>GENDER:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></td>");
+	document.write('<td><b>'+g+'</b></td></tr>');
+
+	document.write("<tr align='left'><td><b>DISEASE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></td>");
+	document.write('<td><b>'+h+'</b></td></tr>');
+
+	document.write("<tr align='left'><td><b>PRESCRIPTION:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></td>");
+	document.write('<td><b>'+i+'</b></td></tr>');
+
+	document.write("<tr align='left'><td><b>ROOM_NO:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></td>");
+	document.write('<td><b>'+j+'</b></td></tr>');
+	document.write("</table>");
+
+
+
+
+
+
+	
+  }
+});
+
+xhr.open("POST", "http://localhost:3000/log");
+xhr.setRequestHeader("Content-Type", "application/json");
+xhr.send(data);
+}
+</script>
+
+
+
+	<title>Login V9</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="icon" type="image/png" href="images/icons/favicon.ico"/>
+	<link rel="stylesheet" type="text/css" href="vendor/bootstrap/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+	<link rel="stylesheet" type="text/css" href="fonts/iconic/css/material-design-iconic-font.min.css">
+	<link rel="stylesheet" type="text/css" href="vendor/animate/animate.css">
+	<link rel="stylesheet" type="text/css" href="vendor/css-hamburgers/hamburgers.min.css">
+	<link rel="stylesheet" type="text/css" href="vendor/animsition/css/animsition.min.css">
+	<link rel="stylesheet" type="text/css" href="vendor/select2/select2.min.css">
+	<link rel="stylesheet" type="text/css" href="vendor/daterangepicker/daterangepicker.css">
+	<link rel="stylesheet" type="text/css" href="css/util.css">
+	<link rel="stylesheet" type="text/css" href="css/main.css">
+</head>
+<body>
+	
+	
+	<div class="container-login100" style="background-image: url('images/bg-01.jpg');overflow:hidden;">
+		<div class="wrap-login100 p-l-55 p-r-55 p-t-80 p-b-30">
+			<form class="login100-form validate-form" name="login" action="C:\Users\Home\myproject\testproject\tprogram.js" method="POST">
+				<span class="login100-form-title p-b-37"><br><br>
+					Sign In
+				</span>
+
+				
+				
+				<div class="wrap-input100 validate-input m-b-25" data-validate = "Enter password">
+					<input class="input100" type="TEL" name="phone"  placeholder="Phone No." >
+					<span class="focus-input100"></span>
+				</div>
+
+				<div class="wrap-input100 validate-input m-b-25" data-validate = "Enter password">
+					<input type="text" class="input100"  type="number" name="aid" placeholder="Aadhar No." />
+
+					<span class="focus-input100"></span>
+				</div>
+
+				<div class="container-login100-form-btn">
+					<button class="login100-form-btn" onClick="validate()" formaction="C:\Users\Home\myproject\testproject\tprogram.js">
+						Sign In
+					</button>
+				</div>
+
+				<div class="text-center p-t-57 p-b-20">
+					<span class="txt1">
+						Or login with
+					</span>
+				</div>
+
+				<div class="flex-c p-b-112">
+					<a href="#" class="login100-social-item">
+						<i class="fa fa-facebook-f"></i>
+					</a>
+
+					<a href="#" class="login100-social-item">
+						<img src="images/icons/icon-google.png" alt="GOOGLE">
+					</a>
+				</div>
+
+				<div class="text-center">
+					<a href="#" class="txt2 hov1">
+						
+					</a>
+				</div>
+			</form>
+
+			
+		</div>
+	</div>
+	
+	
+
+	<div id="dropDownSelect1"></div>
+	
+	<script src="vendor/jquery/jquery-3.2.1.min.js"></script>
+	<script src="vendor/animsition/js/animsition.min.js"></script>
+	<script src="vendor/bootstrap/js/popper.js"></script>
+	<script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+	<script src="vendor/select2/select2.min.js"></script>
+	<script src="vendor/daterangepicker/moment.min.js"></script>
+	<script src="vendor/daterangepicker/daterangepicker.js"></script>
+	<script src="vendor/countdowntime/countdowntime.js"></script>
+	<script src="js/main.js"></script>
+
+</body>
+</html>
